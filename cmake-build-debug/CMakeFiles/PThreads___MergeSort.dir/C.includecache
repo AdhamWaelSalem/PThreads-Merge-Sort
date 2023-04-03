@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/adham/OneDrive/Desktop/Education/Term 7/Operating Systems/Projects/PThreads - MergeSort/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdint.h
+-
+pthread.h
+-
+time.h
+-
+
